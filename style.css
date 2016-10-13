@@ -18,7 +18,7 @@ html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-ser
 p {
 	font-size: 1em;
 	line-height: 1.4em;
-	margin-bottom: 20px;
+	margin-bottom: 3px;
 	color: #444;
 }
 
@@ -352,4 +352,12 @@ section:last-child {
 	-webkit-animation-delay: 0, 2.5s;
 	-moz-animation-delay: 0, 2.5s;
 	animation-delay: 0, 2.5s;
+}
+
+.points {
+	padding-left: 17px;
+}
+
+.finall {
+	margin-bottom: 20px;
 }
